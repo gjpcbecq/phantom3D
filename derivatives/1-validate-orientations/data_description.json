@@ -1,0 +1,16 @@
+{
+  "Name": "1-validate-orientations",
+  "BIDSVersion": "1.6.0",
+  "DatasetType": "derivative",
+  "GeneratedBy": [
+    {
+      "Name": "Manual",
+      "Description": "in-house code"
+    }
+  ],
+  "SourceDatasets": [
+    {
+      "DOI": "https://doi.org/10.18112/openneuro.ds006123.v1.0.2",
+    }
+  ]
+}

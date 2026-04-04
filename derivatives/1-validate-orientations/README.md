@@ -8,7 +8,10 @@ This repository provides code and resources associated with the results presente
 The resources allow you to:
 1. __Generate__ the 3D phantom template for CT and MRI recordings.
 2. __Get the best scores__ for flips and permutations on analyzed volumes.
-3. __Correct__ the affine transform in incorrect NIfTI recordings. 
+3. __Correct__ the affine transform in incorrect NIfTI recordings.
+
+
+Part of the analyzed dataset is available on OpenNeuro at https://doi.org/10.18112/openneuro.ds006123.v1.0.2
 
 ## Requirements 
 
