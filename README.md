@@ -20,7 +20,11 @@ This coordinate system is used in neuroimaging, for example when working with th
 The project is structured as follows: 
 - /distrib: old and versioned files. 
 - /src: contents current and associated files 
-- /fig: contents some figures. 
+- /fig: contents some figures.
+- /derivatives: contents code to:
+    - __Create templates__ for MRI and CT scans in RAS coordinate systems (NIfTI);
+    - __Detect the orientation__ of the phantom in 3D recordings;
+    - __Fix__ the affine transformation for incorrectly oriented NIfTI files.
 
 Here is a description of the main files 
 
