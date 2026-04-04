@@ -1,6 +1,6 @@
 # Resources and code for validating the 3D phantom orientation
 
-<a href="../figs/patterns.png"><img src="../figs/patterns.png" width=300></a>
+<a href="./figs/patterns.png"><img src="./figs/patterns.png" width=300></a>
 
 ## Introduction
 
@@ -67,9 +67,9 @@ Processing times may vary depending on your system configuration.
 - `/img` – Contains masks images, and the GIMP project used to generate masks. 
 
 
-__Author__: GJC Becq
-__Date__: 2026-04-03
-__Copyright__: CeCILL (compatible GNU see `LICENSE.txt`)
+__Author__: GJC Becq  
+__Date__: 2026-04-03  
+__Copyright__: CeCILL (compatible GNU see `LICENSE.txt`)  
 
 
 
